@@ -5,9 +5,9 @@
 </div>  
 <br/>
 
-<h1 align="center">Hola 👋, mi nombre es Federico Vega</h1>
+<h1 align="center">Hola 👋, soy Federico</h1>
 
-<h3 align="center">Soy estudiante en Ingeniería en Sistemas de Infomarción y Desarrollo Web Full Stack</h3>
+<h3 align="center">Soy un estudiante en Ingeniería en Sistemas de Infomarción y Desarrollo Web Full Stack</h3>
 <br/>
 <h1 align="center">TECNOLOGIAS</h1>
 
