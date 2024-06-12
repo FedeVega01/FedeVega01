@@ -1,9 +1,14 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<div align="center">
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
+</div>  
+<br/>
+
 <h1 align="center">Hola 👋, mi nombre es Federico Vega</h1>
 
-<h3 align="center">Soy estudiante en Ingenieria en Sistemas de Infomarción y Desarrollo Web Full Stack</h3>
-
+<h3 align="center">Soy estudiante en Ingeniería en Sistemas de Infomarción y Desarrollo Web Full Stack</h3>
+<br/>
 <h1 align="center">TECNOLOGIAS</h1>
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
@@ -14,10 +19,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  style="height: 4rem"/>
 </p>
-
+<br/>
 <h1 align="center">LENGUAJES MAS USADOS</h1>
+<div align="center">
+<img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedeVega01&layout=compact&theme=gotham&langs_count=8"/>
+</div>  
 
-<img alingn="center" style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedeVega01&layout=compact&theme=gotham&langs_count=8"/>
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
