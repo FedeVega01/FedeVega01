@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @FedeVega01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<h1 align="center">Hola 👋, mi nombre es Federico Vega</h1>
+
+<h3 align="center">Soy estudiante en Ingenieria en Sistemas de Infomarción y Desarrollo Web Full Stack</h3>
 
 <h1 align="center">TECNOLOGIAS</h1>
 
@@ -18,6 +15,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  style="height: 4rem"/>
 </p>
 
+<h1 align="center">LENGUAJES MAS USADOS</h1>
+
+<img alingn="center" style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedeVega01&layout=compact&theme=gotham&langs_count=8"/>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!---
 FedeVega01/FedeVega01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
